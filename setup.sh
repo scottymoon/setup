@@ -21,11 +21,11 @@ brew cask install slack
 echo "git - version control"
 brew install git
 
-echo "Alacritty - better terminal application"
-brew cask install alacritty
+# echo "Alacritty - better terminal application"
+# brew cask install alacritty
 
-echo "tmux - terminal multiplexer"
-brew install tmux
+# echo "tmux - terminal multiplexer"
+# brew install tmux
 
 echo "zsh - alternative shell, like bash but more awesome"
 brew install zsh zsh-completions
